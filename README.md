@@ -8,3 +8,6 @@ This repository has a comparison of classification algorithms fro predicting whe
 ### Install the required libraries through command line
 
 `pip3 intsall -r requirements.txt`
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
